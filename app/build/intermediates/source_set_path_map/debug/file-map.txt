@@ -1,0 +1,44 @@
+com.example.dessertclicker.app-core-1.9.0-0 C:\Users\samue\.gradle\caches\transforms-3\0802dc12b29cc0f51f0dac122ee64f37\transformed\core-1.9.0\res
+com.example.dessertclicker.app-material-1.3.1-1 C:\Users\samue\.gradle\caches\transforms-3\0a5b57839fd7b97a541af15fb5c480cd\transformed\material-1.3.1\res
+com.example.dessertclicker.app-lifecycle-viewmodel-ktx-2.5.1-2 C:\Users\samue\.gradle\caches\transforms-3\0d8439d8ec9bfc6b3a7688ed4023b4ad\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.dessertclicker.app-ui-util-1.3.3-3 C:\Users\samue\.gradle\caches\transforms-3\108cf31a06d5ad4e05c1f171a027abbb\transformed\ui-util-1.3.3\res
+com.example.dessertclicker.app-lifecycle-runtime-2.5.1-4 C:\Users\samue\.gradle\caches\transforms-3\164e57d0dc0705197d61f58933014d34\transformed\lifecycle-runtime-2.5.1\res
+com.example.dessertclicker.app-ui-geometry-1.3.3-5 C:\Users\samue\.gradle\caches\transforms-3\1826ab170c8c09b8f6bc84d87e9c9869\transformed\ui-geometry-1.3.3\res
+com.example.dessertclicker.app-runtime-saveable-1.3.3-6 C:\Users\samue\.gradle\caches\transforms-3\18b2dafa94996e4a597d1d75a21683fc\transformed\runtime-saveable-1.3.3\res
+com.example.dessertclicker.app-customview-poolingcontainer-1.0.0-7 C:\Users\samue\.gradle\caches\transforms-3\234d77cd977e864b377326b610c33d3c\transformed\customview-poolingcontainer-1.0.0\res
+com.example.dessertclicker.app-savedstate-1.2.0-8 C:\Users\samue\.gradle\caches\transforms-3\23d237170821e7c0f0c86f18fb966b19\transformed\savedstate-1.2.0\res
+com.example.dessertclicker.app-startup-runtime-1.1.1-9 C:\Users\samue\.gradle\caches\transforms-3\2b33adfc9bf378def2bfd3fe367e2da6\transformed\startup-runtime-1.1.1\res
+com.example.dessertclicker.app-material-ripple-1.3.1-10 C:\Users\samue\.gradle\caches\transforms-3\346b1b1334f9539b43ec281907a3c4ad\transformed\material-ripple-1.3.1\res
+com.example.dessertclicker.app-lifecycle-viewmodel-savedstate-2.5.1-11 C:\Users\samue\.gradle\caches\transforms-3\4439ad6a0cdea3b3239c6748742cd90a\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.dessertclicker.app-foundation-1.3.1-12 C:\Users\samue\.gradle\caches\transforms-3\476a6ffd70df79cb3e76ffbfb59e836a\transformed\foundation-1.3.1\res
+com.example.dessertclicker.app-runtime-1.3.3-13 C:\Users\samue\.gradle\caches\transforms-3\4cbb47f92148f858f413bc8804bd2ffa\transformed\runtime-1.3.3\res
+com.example.dessertclicker.app-lifecycle-livedata-core-2.5.1-14 C:\Users\samue\.gradle\caches\transforms-3\510a2e4c401f0e038bde7a2fe5b7f803\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.dessertclicker.app-savedstate-ktx-1.2.0-15 C:\Users\samue\.gradle\caches\transforms-3\5584101b0846dbf2ae9c8c6d58dbcd14\transformed\savedstate-ktx-1.2.0\res
+com.example.dessertclicker.app-ui-text-1.3.3-16 C:\Users\samue\.gradle\caches\transforms-3\5cff8d22c4e543bae84be644b5149a1d\transformed\ui-text-1.3.3\res
+com.example.dessertclicker.app-lifecycle-viewmodel-compose-2.5.1-17 C:\Users\samue\.gradle\caches\transforms-3\682e2e3e84027c84b8269e18f3b1994b\transformed\lifecycle-viewmodel-compose-2.5.1\res
+com.example.dessertclicker.app-ui-unit-1.3.3-18 C:\Users\samue\.gradle\caches\transforms-3\6ee0500b5221808492671fd9f4e08e31\transformed\ui-unit-1.3.3\res
+com.example.dessertclicker.app-core-ktx-1.9.0-19 C:\Users\samue\.gradle\caches\transforms-3\6f1c362f917f25d22179de8b0da49b13\transformed\core-ktx-1.9.0\res
+com.example.dessertclicker.app-activity-compose-1.6.1-20 C:\Users\samue\.gradle\caches\transforms-3\7912513061762096bd390d7d40fbf87a\transformed\activity-compose-1.6.1\res
+com.example.dessertclicker.app-ui-tooling-1.3.3-21 C:\Users\samue\.gradle\caches\transforms-3\7c32a1ef270a7c02a2d21d2730bc48ae\transformed\ui-tooling-1.3.3\res
+com.example.dessertclicker.app-ui-graphics-1.3.3-22 C:\Users\samue\.gradle\caches\transforms-3\7cfe0e08355756695c776ebfc6bd842d\transformed\ui-graphics-1.3.3\res
+com.example.dessertclicker.app-ui-1.3.3-23 C:\Users\samue\.gradle\caches\transforms-3\ac2e33a7db689d2c4f123dd37c8e67d2\transformed\ui-1.3.3\res
+com.example.dessertclicker.app-annotation-experimental-1.3.0-24 C:\Users\samue\.gradle\caches\transforms-3\bdac9c7382c1ac15bc3cb4de702369e2\transformed\annotation-experimental-1.3.0\res
+com.example.dessertclicker.app-lifecycle-runtime-ktx-2.5.1-25 C:\Users\samue\.gradle\caches\transforms-3\c6f4bd2a3f307ec88819f330b863faeb\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.example.dessertclicker.app-animation-core-1.3.3-26 C:\Users\samue\.gradle\caches\transforms-3\cabb7365ffa2a92ae5301cf670440c45\transformed\animation-core-1.3.3\res
+com.example.dessertclicker.app-ui-tooling-data-1.3.3-27 C:\Users\samue\.gradle\caches\transforms-3\cf3e0fd02a6da145fb430d83a772ae04\transformed\ui-tooling-data-1.3.3\res
+com.example.dessertclicker.app-animation-1.3.3-28 C:\Users\samue\.gradle\caches\transforms-3\cfaa0b58c4d551cb2bd5653d7059f397\transformed\animation-1.3.3\res
+com.example.dessertclicker.app-lifecycle-viewmodel-2.5.1-29 C:\Users\samue\.gradle\caches\transforms-3\dd70cd8f7b7348e50f827b93f9f193a3\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.dessertclicker.app-ui-test-manifest-1.3.3-30 C:\Users\samue\.gradle\caches\transforms-3\e3867731ffe91c70c8e738803f9f66cc\transformed\ui-test-manifest-1.3.3\res
+com.example.dessertclicker.app-material-icons-core-1.3.1-31 C:\Users\samue\.gradle\caches\transforms-3\e5833edf95a17423f156653fda4bbbf1\transformed\material-icons-core-1.3.1\res
+com.example.dessertclicker.app-foundation-layout-1.3.1-32 C:\Users\samue\.gradle\caches\transforms-3\e7bcabd32b7466f0259da817b6b4f78a\transformed\foundation-layout-1.3.1\res
+com.example.dessertclicker.app-profileinstaller-1.2.0-33 C:\Users\samue\.gradle\caches\transforms-3\e9076673cffe6493cd0937c595e4f8d6\transformed\profileinstaller-1.2.0\res
+com.example.dessertclicker.app-activity-ktx-1.6.1-34 C:\Users\samue\.gradle\caches\transforms-3\eb318e4f64d39f4ec9ddfeddedf92e02\transformed\activity-ktx-1.6.1\res
+com.example.dessertclicker.app-activity-1.6.1-35 C:\Users\samue\.gradle\caches\transforms-3\f1aa0d3e497a0cc8f60a7e018be34eb2\transformed\activity-1.6.1\res
+com.example.dessertclicker.app-ui-tooling-preview-1.3.3-36 C:\Users\samue\.gradle\caches\transforms-3\f6cc47f7d813b5b1ecffe1325fd864ae\transformed\ui-tooling-preview-1.3.3\res
+com.example.dessertclicker.app-resValues-37 C:\Users\samue\OneDrive\00-BVC\04 - TERM-4\SODV3203 Mobile Application Development\DesertClicker\dessert-clicker\app\build\generated\res\resValues\debug
+com.example.dessertclicker.app-rs-38 C:\Users\samue\OneDrive\00-BVC\04 - TERM-4\SODV3203 Mobile Application Development\DesertClicker\dessert-clicker\app\build\generated\res\rs\debug
+com.example.dessertclicker.app-packageDebugResources-39 C:\Users\samue\OneDrive\00-BVC\04 - TERM-4\SODV3203 Mobile Application Development\DesertClicker\dessert-clicker\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.dessertclicker.app-packageDebugResources-40 C:\Users\samue\OneDrive\00-BVC\04 - TERM-4\SODV3203 Mobile Application Development\DesertClicker\dessert-clicker\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.dessertclicker.app-merged_res-41 C:\Users\samue\OneDrive\00-BVC\04 - TERM-4\SODV3203 Mobile Application Development\DesertClicker\dessert-clicker\app\build\intermediates\merged_res\debug
+com.example.dessertclicker.app-debug-42 C:\Users\samue\OneDrive\00-BVC\04 - TERM-4\SODV3203 Mobile Application Development\DesertClicker\dessert-clicker\app\src\debug\res
+com.example.dessertclicker.app-main-43 C:\Users\samue\OneDrive\00-BVC\04 - TERM-4\SODV3203 Mobile Application Development\DesertClicker\dessert-clicker\app\src\main\res
